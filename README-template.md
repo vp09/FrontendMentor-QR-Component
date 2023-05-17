@@ -20,7 +20,7 @@ Level - Newbie
 
 ### Screenshot
 
-![images/Screenshot.png]
+[images/Screenshot.png]
 
 ### Links
 
