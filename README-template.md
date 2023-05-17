@@ -14,18 +14,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-Technology used - HTML, CSS
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H):
+Technology used - HTML, CSS :
 Level - Newbie
 
 ### Screenshot
 
-![](images/Screenshot.png)
+![images/Screenshot.png]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vp09/FrontendMentor-QR-Component)
-- Live Site URL: [Add live site URL here](https://silly-truffle-9cbf73.netlify.app/)
+- Solution URL: [https://github.com/vp09/FrontendMentor-QR-Component]
+- Live Site URL: [https://silly-truffle-9cbf73.netlify.app/]
 
 ## My process
 1. created a div element with class="main" to store the images .
@@ -85,7 +85,7 @@ Level - Newbie
 2. media queries.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vp09)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/vp09]
 
 
 
